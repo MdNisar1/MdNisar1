@@ -58,14 +58,14 @@
 
 ### 📌 Pinned Projects
 <p align="left">
-  <a href="https://github.com/ejaz-ahmad18/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ejaz-ahmad18&repo=Portfolio&theme=tokyonight" />
+  <a href="https://github.com/MdNisar1/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdNisar1&repo=Portfolio&theme=tokyonight" />
   </a>
-  <a href="https://github.com/ejaz-ahmad18/Mini-Reels-Making">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ejaz-ahmad18&repo=Mini-Reels-Making&theme=tokyonight" />
+  <a href="https://github.com/MdNisar1/Mini-Reels-Making">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdNisar1&repo=Mini-Reels-Making&theme=tokyonight" />
   </a>
-  <a href="https://github.com/ejaz-ahmad18/JavaScript-Practice-question">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ejaz-ahmad18&repo=JavaScript-Practice-question&theme=tokyonight" />
+  <a href="https://github.com/MdNisar1/JavaScript-Practice-question">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdNisar1&repo=JavaScript-Practice-question&theme=tokyonight" />
   </a>
 </p>
 
@@ -92,22 +92,22 @@
 ### 📊 GitHub Analytics
 
 ##
- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="Fetching" /></p>
+ <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdNisar1&show_icons=true&locale=en&layout=compact" alt="Fetching" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" alt="Fetching" /></p> 
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdNisar1&show_icons=true&locale=en" alt="Fetching" /></p> 
 
 
 <p align="left">
   <!-- Stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdNisar1&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="right">
   <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MdNisar1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18&" alt="Fetching" /></p> 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdNisar1&" alt="Fetching" /></p> 
 
 ---
 
