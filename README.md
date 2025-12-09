@@ -12,8 +12,8 @@
 ### 🙋‍♂️ About Me
 - 🔭 I'm building real-world projects using **HTML, CSS, JavaScript, and React**
 - 👨‍💼 Helping agencies and businesses **scale their online presence**
-- 🌐 Visit my website → **[www.ejazahmad.in](https://www.ejazahmad.in)**
-- ✉️ Reach me anytime → **ejazahmadbh18@gmail.com**
+<!-- - 🌐 Visit my website → **[www.ejazahmad.in](https://www.ejazahmad.in)** -->
+- ✉️ Reach me anytime → **mdnisarktr62@gmail.com**
 - 💬 Fun to work with and fast to deliver ⚡
 
 ---
@@ -50,7 +50,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejaz-ahmad18/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/authenticejaz/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iam.ejazahmad)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejazahmadbh18@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnisarktr62@gmail.com)
 
 
 ---
@@ -96,17 +96,6 @@
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdNisar1&show_icons=true&locale=en" alt="Fetching" /></p> 
 
-
-<p align="left">
-  <!-- Stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MdNisar1&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="right">
-  <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MdNisar1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdNisar1&" alt="Fetching" /></p> 
 
 ---
@@ -115,8 +104,8 @@
 If you're looking for someone to build, scale, or optimize your next project or startup —  
 I'm open to freelance work and collaborations.
 
-📩 **Drop a message** → ejazahmadbh18@gmail.com  
-📎 **Portfolio** → www.ejazahmad.in
+📩 **Drop a message** → mdnisarktr62@gmail.com  
+📎 **Portfolio** → www.mdnisar.in
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
