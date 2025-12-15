@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <!-- ![logo](https://github.com/ejazahmad18/ejazahmad18/blob/main/Banner.jpg) -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
- <h1 align="center">👋 Hello there, I'm Ejaz Ahmad</h1>
+ <h1 align="center">👋 Hello there, I'm Md Nisar</h1>
 
 <h3 align="center">
   💻 Full Stack Web Developer | 🧠 Frontend Developer | 📈 Frontend Specialist
@@ -19,7 +19,7 @@
 - 🔭 I'm building real-world projects using **HTML, CSS, JavaScript, and React**
 - 👨‍💼 Helping agencies and businesses **scale their online presence**
 - 🌐 Visit my website → [www.ejazahmad.in](https://www.ejazahmad.in)
-- ✉️ Reach me anytime → ejazahmadbh18@gmail.com
+- ✉️ Reach me anytime → mdnisar.dev@gmail.com
 - 💬 Fun to work with and fast to deliver ⚡
 
 ---
@@ -107,7 +107,7 @@
 If you're looking for someone to build, scale, or optimize your next project or startup —  
 I'm open to freelance work and collaborations.
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
-📩 **Drop a message** → ejazahmadbh18@gmail.com  
+📩 **Drop a message** → mdnisar.dev@gmail.com  
 📎 **Portfolio** → www.ejazahmad.in 
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/></p>
