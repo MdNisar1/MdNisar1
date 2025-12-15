@@ -18,7 +18,7 @@
 
 - 🔭 I'm building real-world projects using **HTML, CSS, JavaScript, and React**
 - 👨‍💼 Helping agencies and businesses **scale their online presence**
-- 🌐 Visit my website → [www.ejazahmad.in](https://www.ejazahmad.in)
+- 🌐 Visit my website → [www.mdnisar.in](https://www.mdnisar.in)
 - ✉️ Reach me anytime → mdnisar.dev@gmail.com
 - 💬 Fun to work with and fast to deliver ⚡
 
@@ -59,7 +59,7 @@
 ### 🌍 Connect with Me <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nisar-5676792b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Nisar4_/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NisarNoorul)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nisar.noorul)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnisar.dev@gmail.com)
 
 
